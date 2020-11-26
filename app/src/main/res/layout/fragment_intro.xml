@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Intro">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/colorPrimary"
+        android:textSize="20dp"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:text="Honey, today 23 years ago in this beautiful world you came down to make it more beautiful. I am thankful that I met you back in 2015 and so grateful you talked with me. I wish you all the success in this world and I know and believe you will conquer the world. I hope I can be your best companion in this journey. You are wonderful" />
+
+</FrameLayout>
